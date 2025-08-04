@@ -1,1 +1,2 @@
 # Sms-Spam-Prediction
+A machine learning project that uses Natural Language Processing (NLP) techniques to classify SMS messages as spam or ham (not spam). The model is trained on a labeled dataset and achieves 97% accuracy using a Naive Bayes classifier. This project includes data preprocessing, feature extraction, model training, and evaluation — all implemented using Python, Pandas, NumPy, and scikit-learn.
